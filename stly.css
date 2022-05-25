@@ -1,0 +1,16 @@
+
+#DostUlkeler{
+    display: flex;
+        
+    flex-direction: column;
+        
+    justify-content:center;
+    align-items : center;
+    font-size: 3rem;
+    }
+    
+    img{
+        height: 10rem;
+        width: 20rem;
+    }
+    

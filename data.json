@@ -1,0 +1,28 @@
+{
+    "ulke":[
+    {
+        "ad":"Almanya",
+        "nifus":"83,24 milyon",
+        "GSYH":"3,806 trilyon USD",
+        "Ülke Codu":"+49"
+    },
+    {
+        "ad":"ABD",
+        "nifus":"329,5 milyon",
+        "GSYH":"20,94 trilyon USD",
+        "Ülke Codu":"+1"
+    },
+    {
+        "ad":"Cezayir",
+        "nifus":"43,85 milyon",
+        "GSYH":"145,2 milyar USD",
+        "Tel Codu":"+213"
+    },
+    {
+        "ad":"Türkiye",
+        "nifus":"84,34 milyon",
+        "GSYH":"720,1 milyar USD",
+        "Tel Codu":"+90"
+    } 
+]
+}
